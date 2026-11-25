@@ -27,6 +27,7 @@ Installation and Execution
 - npm
 - Visual Studio Code
 - Git
+Steps
 1. Clone the Repository
 2. Navigate to the Project Folder
 3. Create a Virtual Environment
@@ -82,7 +83,3 @@ Future Enhancements
 
 
 
-
----
-
-⭐ If you find this project interesting, don't forget to star the repository!
